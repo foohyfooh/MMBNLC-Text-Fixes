@@ -40286,7 +40286,7 @@ script 195 mmbn4s {
 	end
 }
 script 196 mmbn4s {
-	"HealNavi"
+	"HeelNavi"
 	end
 }
 script 197 mmbn4s {
@@ -40318,7 +40318,7 @@ script 203 mmbn4s {
 	end
 }
 script 204 mmbn4s {
-	"HealNavi"
+	"HeelNavi"
 	end
 }
 script 205 mmbn4s {
