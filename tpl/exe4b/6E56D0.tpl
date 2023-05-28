@@ -29,7 +29,7 @@ script 1 mmbn4-lc {
 		left = 222
 		top = 141
 	"""
-	HIGH-TECH EARPHONE
+	HIGH-TECH EARPHONES
 	THAT CAN BLOCK OUT
 	OUTSIDE SOUNDS
 	"""

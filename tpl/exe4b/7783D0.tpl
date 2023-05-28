@@ -324,7 +324,7 @@ script 12 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Daddy might come
+	Dad might come
 	back.
 	"""
 	keyWait
@@ -409,7 +409,7 @@ script 18 mmbn4-lc {
 		jumpIfTrue = 28
 		jumpIfFalse = continue
 	mugshotShow
-		mugshot = PigtailsGirl
+		mugshot = Woman
 	msgOpen
 	"""
 	Be a good girl and
@@ -419,11 +419,13 @@ script 18 mmbn4-lc {
 		any = false
 	clearMsg
 	mugshotShow
-		mugshot = Woman
+		mugshot = PigtailsGirl
 	"Okay,okay…"
 	keyWait
 		any = false
 	clearMsg
+	mugshotShow
+		mugshot = Woman
 	"""
 	Just jack into
 	that machine and

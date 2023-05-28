@@ -39,7 +39,7 @@ script 1 mmbn4-lc {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	High-tech earphone
+	High-tech earphones
 	that can block out
 	outside sounds.
 	"""

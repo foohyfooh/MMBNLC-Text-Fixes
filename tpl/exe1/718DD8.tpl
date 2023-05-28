@@ -209,7 +209,7 @@ script 10 mmbn1-lc {
 	mugshotAnimate
 		animation = 2
 	"""
-	Load Chaud,you
+	Lord Chaud,you
 	have mail from HQ.
 	"""
 	mugshotAnimate

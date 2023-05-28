@@ -118,7 +118,7 @@ script 2 mmbn4-lc {
 	clearMsg
 	"""
 	you win a high-tech
-	set of Earphone!
+	set of Earphones!
 	"""
 	keyWait
 		any = false
@@ -288,7 +288,7 @@ script 21 mmbn4-lc {
 	clearMsg
 	"""
 	you get a free pair
-	of Earphone!
+	of Earphones!
 	"""
 	keyWait
 		any = false

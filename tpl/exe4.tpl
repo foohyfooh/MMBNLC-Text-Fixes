@@ -12571,7 +12571,7 @@ script 1 mmbn4-lc {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	High-tech earphone
+	High-tech earphones
 	that can block out
 	outside sounds.
 	"""
@@ -16234,7 +16234,7 @@ script 1 mmbn4-lc {
 		left = 222
 		top = 141
 	"""
-	HIGH-TECH EARPHONE
+	HIGH-TECH EARPHONES
 	THAT CAN BLOCK OUT
 	OUTSIDE SOUNDS
 	"""
@@ -47884,7 +47884,7 @@ script 0 mmbn4s {
 	end
 }
 script 1 mmbn4s {
-	"Earphone"
+	"Earphones"
 	end
 }
 script 2 mmbn4s {
@@ -119119,7 +119119,7 @@ script 12 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Daddy might come
+	Dad might come
 	back.
 	"""
 	keyWait
@@ -119204,7 +119204,7 @@ script 18 mmbn4-lc {
 		jumpIfTrue = 28
 		jumpIfFalse = continue
 	mugshotShow
-		mugshot = PigtailsGirl
+		mugshot = Woman
 	msgOpen
 	"""
 	Be a good girl and
@@ -119214,11 +119214,13 @@ script 18 mmbn4-lc {
 		any = false
 	clearMsg
 	mugshotShow
-		mugshot = Woman
+		mugshot = PigtailsGirl
 	"Okay,okay…"
 	keyWait
 		any = false
 	clearMsg
+	mugshotShow
+		mugshot = Woman
 	"""
 	Just jack into
 	that machine and
@@ -156027,7 +156029,7 @@ script 2 mmbn4-lc {
 	clearMsg
 	"""
 	you win a high-tech
-	set of Earphone!
+	set of Earphones!
 	"""
 	keyWait
 		any = false
@@ -156197,7 +156199,7 @@ script 21 mmbn4-lc {
 	clearMsg
 	"""
 	you get a free pair
-	of Earphone!
+	of Earphones!
 	"""
 	keyWait
 		any = false
