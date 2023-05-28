@@ -1,0 +1,49 @@
+@archive 7C62C0
+@size 3
+
+script 0 mmbn5-lc {
+	mugshotShow
+		mugshot = NormalNaviYellow
+	msgOpen
+	"""
+	Your skills impress
+	me. I want you to
+	have this.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	jump
+		target = 1
+}
+script 1 mmbn5-lc {
+	mugshotHide
+	msgOpen
+	soundPlay
+		track = 115
+	storeTimer
+		timer = 0
+		value = 1
+	"""
+	MegaMan got:
+	"ArmrData"!!!
+	"""
+	keyWait
+		any = false
+	waitOWVar
+		variable = 0
+		value = 2
+	end
+}
+script 2 mmbn5-lc {
+	mugshotShow
+		mugshot = NormalNaviYellow
+	msgOpen
+	"""
+	Don't neglect your
+	training…
+	"""
+	keyWait
+		any = false
+	end
+}

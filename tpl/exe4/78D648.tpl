@@ -1,0 +1,23 @@
+@archive 78D648
+@size 255
+
+script 0 mmbn4-lc {
+	mugshotShow
+		mugshot = MrProgGreen
+	msgOpen
+	"""
+	I COOKED FOOD TODAY
+	AND I'LL BE COOKING
+	FOOD TOMORROW.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	I'M JUST
+	2 HOT 4 U!!
+	"""
+	keyWait
+		any = false
+	end
+}
