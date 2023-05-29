@@ -30,7 +30,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	The Virus Lab at the
-	SciLab["2]
+	SciLab…
 	"""
 	keyWait
 	clearMsg
@@ -41,7 +41,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"One day[\"2]"
+	"One day…"
 	keyWait
 	clearMsg
 	"""
@@ -65,7 +65,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	So this is the new
-	Virus Lab,huh["2]?
+	Virus Lab,huh…?
 	"""
 	keyWait
 	clearMsg
@@ -106,7 +106,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,MegaMan[\"2]"
+	"I know,MegaMan…"
 	keyWait
 	clearMsg
 	jump

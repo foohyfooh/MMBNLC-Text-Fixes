@@ -57,7 +57,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Time to go back to
-	school now,class["2]
+	school now,class…
 	"""
 	keyWait
 	clearMsg
@@ -117,7 +117,7 @@ script 7 mmbn3 {
 	"\nMayl"
 	flagClear
 		flag = 777
-	"[\"2]How about it?"
+	"…How about it?"
 	keyWait
 	clearMsg
 	jump
@@ -206,7 +206,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,ma'am[\"2]"
+	"Yes,ma'am…"
 	keyWait
 	clearMsg
 	jump

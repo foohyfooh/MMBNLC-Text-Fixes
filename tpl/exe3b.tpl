@@ -8442,7 +8442,7 @@ script 57 mmbn3 {
 	msgOpen
 	"""
 	Guess I mastered
-	that style["2]Time
+	that style…Time
 	to find a new one!
 	"""
 	keyWait
@@ -170821,7 +170821,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	The Virus Lab at the
-	SciLab["2]
+	SciLab…
 	"""
 	keyWait
 	clearMsg
@@ -170832,7 +170832,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"One day[\"2]"
+	"One day…"
 	keyWait
 	clearMsg
 	"""
@@ -170856,7 +170856,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	So this is the new
-	Virus Lab,huh["2]?
+	Virus Lab,huh…?
 	"""
 	keyWait
 	clearMsg
@@ -170897,7 +170897,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,MegaMan[\"2]"
+	"I know,MegaMan…"
 	keyWait
 	clearMsg
 	jump
@@ -170979,7 +170979,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Time to go back to
-	school now,class["2]
+	school now,class…
 	"""
 	keyWait
 	clearMsg
@@ -171039,7 +171039,7 @@ script 7 mmbn3 {
 	"\nMayl"
 	flagClear
 		flag = 777
-	"[\"2]How about it?"
+	"…How about it?"
 	keyWait
 	clearMsg
 	jump
@@ -171128,7 +171128,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,ma'am[\"2]"
+	"Yes,ma'am…"
 	keyWait
 	clearMsg
 	jump

@@ -653,7 +653,7 @@ script 57 mmbn3 {
 	msgOpen
 	"""
 	Guess I mastered
-	that style["2]Time
+	that style…Time
 	to find a new one!
 	"""
 	keyWait
