@@ -221,7 +221,7 @@ script 9 mmbn4-lc {
 	"""
 	You don't remember
 	me saving you in
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false

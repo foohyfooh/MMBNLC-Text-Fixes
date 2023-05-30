@@ -131,7 +131,7 @@ script 8 mmbn4-lc {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Yeah,in MelSquar.
+	Yeah,in MelSquare.
 	Anyway,follow me.
 	"""
 	keyWait

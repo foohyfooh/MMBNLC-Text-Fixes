@@ -385,7 +385,7 @@ script 25 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	It's in MelSquar.
+	It's in MelSquare.
 	Let's go there next.
 	"""
 	keyWait
@@ -407,7 +407,7 @@ script 26 mmbn4-lc {
 script 27 mmbn4-lc {
 	mugshotShow
 		mugshot = Mayl
-	"\"MelSquar\",silly!"
+	"\"MelSquare\",silly!"
 	keyWait
 		any = false
 	clearMsg

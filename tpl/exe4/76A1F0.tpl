@@ -271,7 +271,7 @@ script 8 mmbn4-lc {
 	clearMsg
 	"""
 	Ahead is a castle.
-	MelSquar is down the
+	MelSquare is down the
 	stairs on the right.
 	"""
 	keyWait

@@ -695,7 +695,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	What's going on at
-	MelSquar? MegaMan,
+	MelSquare? MegaMan,
 	jack out!
 	"""
 	keyWait
@@ -785,7 +785,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -880,7 +880,7 @@ script 86 mmbn4-lc {
 	"""
 	Tamako is waiting!
 	Let's jack out and
-	go to MelSquar!
+	go to MelSquare!
 	"""
 	keyWait
 		any = false
@@ -1315,7 +1315,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	We have to get to
-	MelSquar for our
+	MelSquare for our
 	contest with Flave!
 	"""
 	keyWait

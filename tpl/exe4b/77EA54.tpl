@@ -1082,7 +1082,7 @@ script 83 mmbn4-lc {
 	msgOpen
 	"""
 	Something's going on
-	in MelSquar…
+	in MelSquare…
 	"""
 	keyWait
 		any = false

@@ -130,7 +130,7 @@ script 7 mmbn4-lc {
 	"""
 	Lan?!
 	That's coming from
-	MelSquar!
+	MelSquare!
 	"""
 	keyWait
 		any = false

@@ -81,7 +81,7 @@ script 27 mmbn4s {
 	end
 }
 script 28 mmbn4s {
-	"____MelSquar■"
+	"___MelSquare■"
 	end
 }
 script 29 mmbn4s {

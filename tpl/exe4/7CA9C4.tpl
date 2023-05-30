@@ -11,7 +11,7 @@ script 0 mmbn4-lc {
 	clearMsg
 	"""
 	I ran all the way
-	from MelSquar,so
+	from MelSquare,so
 	"""
 	keyWait
 		any = false

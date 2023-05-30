@@ -689,7 +689,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	That scream came
-	from MelSquar!
+	from MelSquare!
 	"""
 	keyWait
 		any = false
@@ -808,7 +808,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -1344,7 +1344,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	Let's get to
-	MelSquar for the
+	MelSquare for the
 	cook-off with Flave!
 	"""
 	keyWait

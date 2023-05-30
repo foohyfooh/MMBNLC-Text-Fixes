@@ -19559,7 +19559,7 @@ script 27 mmbn4s {
 	end
 }
 script 28 mmbn4s {
-	"____MelSquar■"
+	"___MelSquare■"
 	end
 }
 script 29 mmbn4s {
@@ -54949,7 +54949,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -59298,7 +59298,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -63380,7 +63380,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -66407,7 +66407,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	That scream came
-	from MelSquar!
+	from MelSquare!
 	"""
 	keyWait
 		any = false
@@ -66526,7 +66526,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -67062,7 +67062,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	Let's get to
-	MelSquar for the
+	MelSquare for the
 	cook-off with Flave!
 	"""
 	keyWait
@@ -73911,7 +73911,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	What's going on at
-	MelSquar? MegaMan,
+	MelSquare? MegaMan,
 	jack out!
 	"""
 	keyWait
@@ -74001,7 +74001,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -74091,7 +74091,7 @@ script 86 mmbn4-lc {
 	"""
 	Tamako is waiting!
 	Let's jack out and
-	go to MelSquar!
+	go to MelSquare!
 	"""
 	keyWait
 		any = false
@@ -74493,7 +74493,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	We have to get to
-	MelSquar for our
+	MelSquare for our
 	contest with Flave!
 	"""
 	keyWait
@@ -80271,7 +80271,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	What's going on at
-	MelSquar? MegaMan,
+	MelSquare? MegaMan,
 	jack out!
 	"""
 	keyWait
@@ -80361,7 +80361,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -80451,7 +80451,7 @@ script 86 mmbn4-lc {
 	"""
 	Tamako is waiting!
 	Let's jack out and
-	go to MelSquar!
+	go to MelSquare!
 	"""
 	keyWait
 		any = false
@@ -80890,7 +80890,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	We have to get to
-	MelSquar for our
+	MelSquare for our
 	contest with Flave!
 	"""
 	keyWait
@@ -84102,7 +84102,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	What's going on at
-	MelSquar? MegaMan,
+	MelSquare? MegaMan,
 	jack out!
 	"""
 	keyWait
@@ -84192,7 +84192,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -84287,7 +84287,7 @@ script 86 mmbn4-lc {
 	"""
 	Tamako is waiting!
 	Let's jack out and
-	go to MelSquar!
+	go to MelSquare!
 	"""
 	keyWait
 		any = false
@@ -84722,7 +84722,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	We have to get to
-	MelSquar for our
+	MelSquare for our
 	contest with Flave!
 	"""
 	keyWait
@@ -86650,7 +86650,7 @@ script 70 mmbn4-lc {
 	msgOpen
 	"""
 	What's going on at
-	MelSquar? MegaMan,
+	MelSquare? MegaMan,
 	jack out!
 	"""
 	keyWait
@@ -86727,7 +86727,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -86817,7 +86817,7 @@ script 86 mmbn4-lc {
 	"""
 	Tamako is waiting!
 	Let's jack out and
-	go to MelSquar!
+	go to MelSquare!
 	"""
 	keyWait
 		any = false
@@ -87249,7 +87249,7 @@ script 125 mmbn4-lc {
 	msgOpen
 	"""
 	We have to get to
-	MelSquar for our
+	MelSquare for our
 	contest with Flave!
 	"""
 	keyWait
@@ -95973,7 +95973,7 @@ script 8 mmbn4-lc {
 	clearMsg
 	"""
 	Ahead is a castle.
-	MelSquar is down the
+	MelSquare is down the
 	stairs on the right.
 	"""
 	keyWait
@@ -128732,7 +128732,7 @@ script 90 mmbn4-lc {
 	msgOpen
 	"""
 	Lan! That scream
-	came from MelSquar!
+	came from MelSquare!
 	"""
 	keyWait
 		any = false
@@ -181597,7 +181597,7 @@ script 3 mmbn4-lc {
 	"""
 	I'll have the
 	ingredients shipped
-	to MelSquar.
+	to MelSquare.
 	"""
 	keyWait
 		any = false
@@ -201206,7 +201206,7 @@ script 25 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	It's in MelSquar.
+	It's in MelSquare.
 	Let's go there next.
 	"""
 	keyWait
@@ -201228,7 +201228,7 @@ script 26 mmbn4-lc {
 script 27 mmbn4-lc {
 	mugshotShow
 		mugshot = Mayl
-	"\"MelSquar\",silly!"
+	"\"MelSquare\",silly!"
 	keyWait
 		any = false
 	clearMsg
@@ -201373,7 +201373,7 @@ script 3 mmbn4-lc {
 		mugshot = SciLabMan
 	"""
 	The ToyRobos in
-	MelSquar have gone
+	MelSquare have gone
 	out of control!
 	"""
 	keyWait
@@ -243100,7 +243100,7 @@ script 7 mmbn4-lc {
 	"""
 	Lan?!
 	That's coming from
-	MelSquar!
+	MelSquare!
 	"""
 	keyWait
 		any = false
@@ -243740,7 +243740,7 @@ script 9 mmbn4-lc {
 	"""
 	You don't remember
 	me saving you in
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false
@@ -245411,7 +245411,7 @@ script 8 mmbn4-lc {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Yeah,in MelSquar.
+	Yeah,in MelSquare.
 	Anyway,follow me.
 	"""
 	keyWait
@@ -256640,7 +256640,7 @@ script 0 mmbn4-lc {
 	clearMsg
 	"""
 	I ran all the way
-	from MelSquar,so
+	from MelSquare,so
 	"""
 	keyWait
 		any = false

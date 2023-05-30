@@ -463,7 +463,7 @@ script 90 mmbn4-lc {
 	msgOpen
 	"""
 	Lan! That scream
-	came from MelSquar!
+	came from MelSquare!
 	"""
 	keyWait
 		any = false

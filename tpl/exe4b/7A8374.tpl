@@ -43,7 +43,7 @@ script 3 mmbn4-lc {
 		mugshot = SciLabMan
 	"""
 	The ToyRobos in
-	MelSquar have gone
+	MelSquare have gone
 	out of control!
 	"""
 	keyWait

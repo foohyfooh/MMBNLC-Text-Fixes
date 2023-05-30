@@ -529,7 +529,7 @@ script 80 mmbn4-lc {
 	"""
 	I wonder what Tamako
 	wants to do at
-	MelSquar?
+	MelSquare?
 	"""
 	keyWait
 		any = false

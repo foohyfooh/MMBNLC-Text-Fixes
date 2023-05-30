@@ -95,7 +95,7 @@ script 3 mmbn4-lc {
 	"""
 	I'll have the
 	ingredients shipped
-	to MelSquar.
+	to MelSquare.
 	"""
 	keyWait
 		any = false
