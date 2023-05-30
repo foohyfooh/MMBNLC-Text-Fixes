@@ -258238,6 +258238,8 @@ script 1 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
+	mugshotShow
+		mugshot = Lan
 	"""
 	I don't like bugging
 	my opponent before
@@ -258298,7 +258300,7 @@ script 4 mmbn4-lc {
 }
 script 5 mmbn4-lc {
 	mugshotShow
-		mugshot = Raoul
+		mugshot = Lan
 	"""
 	Does this ring any
 	bells?
@@ -258311,15 +258313,17 @@ script 5 mmbn4-lc {
 }
 script 6 mmbn4-lc {
 	mugshotShow
-		mugshot = Lan
+		mugshot = Raoul
 	"""
-	Did MegaMan fight a
+	Did MegaMan fight any
 	viruses before he
 	collapsed?
 	"""
 	keyWait
 		any = false
 	clearMsg
+	mugshotShow
+		mugshot = Lan
 	"""
 	No,but a strange
 	old man challenged
