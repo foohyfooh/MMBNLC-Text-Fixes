@@ -140480,11 +140480,8 @@ script 166 mmbn4-lc {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"Oh no! Without this"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Oh no! Without this
 	river,we can't live
 	here!
 	"""
@@ -140542,11 +140539,8 @@ script 168 mmbn4-lc {
 	"""
 	Management System!
 	It's deep inside the
+	WaterGod!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"WaterGod!"
 	keyWait
 		any = false
 	end
@@ -140567,21 +140561,17 @@ script 170 mmbn4-lc {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Champion. Inside the"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	WaterGod lies a lab-
-	yrinth of Networks.
-	If you feel in
+	Champion. Inside the 
+	WaterGod lies a labyrinth 
+	of Networks.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	danger,jack out
-	immediately!
+	If you feel in danger,
+	jack out immediately!
 	"""
 	keyWait
 		any = false
