@@ -136965,11 +136965,8 @@ script 24 mmbn4-lc {
 	"""
 	I can't wait to see
 	which country's Net
+	Battler will win!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Battler will win!"
 	keyWait
 		any = false
 	end
@@ -137075,11 +137072,8 @@ script 28 mmbn4-lc {
 	"""
 	If you lose the
 	Round 1,I'm gonna
+	whoop you!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"whoop you!"
 	keyWait
 		any = false
 	end
