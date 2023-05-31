@@ -132,8 +132,7 @@ script 8 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	You shamed our
-	tribe!
+	You shamed our tribe!
 	"""
 	keyWait
 		any = false
@@ -331,8 +330,8 @@ script 19 mmbn4-lc {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Lan,let me apolo-
-	gize,too. You are a
+	Lan,let me apologize,
+	too. You are a
 	proud warrior.
 	"""
 	keyWait

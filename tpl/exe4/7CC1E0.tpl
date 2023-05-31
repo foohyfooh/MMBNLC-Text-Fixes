@@ -63,7 +63,7 @@ script 3 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Thank you for help
+	Thank you for helping
 	me save the pride of
 	my tribe.
 	"""
