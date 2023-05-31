@@ -17,5 +17,6 @@ for game, exe, textpet_name in zip(game_names, exe_names, textpet_names):
 
   # Convert Human Readable Format
   tpl_path = extracted_path.replace('extracted', 'tpl')
-  single_tpl_file = f'{tpl_path}.tpl'
-  subprocess.run(['TextPet/TextPet.exe', 'Load-Plugins', 'TextPet/plugins', 'Game', textpet_name, 'Read-Text-Archives', extracted_path, '--format', 'msg', 'Write-Text-Archives', single_tpl_file, '--single', '--format', 'tpl', 'Write-Text-Archives', tpl_path, '--format', 'tpl'], stdout=subprocess.DEVNULL)
+  if not os.path.exists(tpl_path):
+    single_tpl_file = f'{tpl_path}.tpl'
+    subprocess.run(['TextPet/TextPet.exe', 'Load-Plugins', 'TextPet/plugins', 'Game', textpet_name, 'Read-Text-Archives', extracted_path, '--format', 'msg', 'Write-Text-Archives', single_tpl_file, '--single', '--format', 'tpl', 'Write-Text-Archives', tpl_path, '--format', 'tpl'], stdout=subprocess.DEVNULL)

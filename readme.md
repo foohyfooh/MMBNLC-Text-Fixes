@@ -57,7 +57,7 @@ MMBNLC-Text-Fixes
 ```
 
 ## Running
-Run `python scripts/extract_text.py` to get the text from the data. This will generate the TPL files which will be edit in the [tpl](tpl) directory. <br>
-*Note: This step shouldn't be necessary since the currently edited TPL files are included in this repo but this is documented in case the files need to be regenerated.*
+Run `python scripts/extract_text.py` to get the text from the data. This will generate the msg files in the[extracted](extracted) folder and TPL files which will be editted in the [tpl](tpl) folder. <br>
+*Note: This will not overwrite the existing tpl files. Delete the whole folder if you wish to obtain the original files.*
 
 Run `python scripts/pack_text.py` to build the map and mpak files to be put back into the game.
