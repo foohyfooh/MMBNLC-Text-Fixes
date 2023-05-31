@@ -138021,14 +138021,8 @@ script 15 mmbn4-lc {
 	msgOpen
 	"""
 	Do all Electopian
-	grade school
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	students fight as
-	well as you?
+	grade school students
+	fight as well as you?
 	"""
 	keyWait
 		any = false
