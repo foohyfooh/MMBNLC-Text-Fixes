@@ -137235,26 +137235,22 @@ script 41 mmbn4-lc {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Lan! You're blowing"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	me away!! I never
-	thought the guy I
+	Lan! You're blowing me
+	away!! I never thought
+	the guy I qualified in 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	qualified in the
-	preliminaries would
-	make it to the
+	the preliminaries would
+	make it to the finals!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"finals! WOO-HOO!!"
+	"WOO-HOO!!"
 	keyWait
 		any = false
 	end
@@ -137290,12 +137286,8 @@ script 43 mmbn4-lc {
 	clearMsg
 	"""
 	Good luck!!
-	I'm your biggest
+	I'm your biggest fan!!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"fan!!"
 	keyWait
 		any = false
 	end
@@ -137335,18 +137327,14 @@ script 45 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	It wasn't just luck
-	or chance that
-	brought you this far
+	It wasn't just luck or
+	chance that brought you
+	this far Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan. It was your"
-	keyWait
-		any = false
-	clearMsg
-	"skills!! "
+	"It was your skills!!"
 	keyWait
 		any = false
 	end
@@ -211116,7 +211104,7 @@ script 0 mmbn4-lc {
 		height = 3
 	"""
 	The battler who
-	tossed taside all
+	tossed aside all
 	others to claim the
 	"""
 	keyWait

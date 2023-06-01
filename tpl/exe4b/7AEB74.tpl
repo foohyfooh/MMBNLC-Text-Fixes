@@ -16,7 +16,7 @@ script 0 mmbn4-lc {
 		height = 3
 	"""
 	The battler who
-	tossed taside all
+	tossed aside all
 	others to claim the
 	"""
 	keyWait
