@@ -206,13 +206,13 @@ script 20 mmbn4-lc {
 script 21 mmbn4-lc {
 	msgOpen
 	"""
-	Heating program
-	rebooting…
+	HEATING PROGRAM
+	REBOOTING…
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"System recovered."
+	"SYSTEM RECOVERED."
 	keyWait
 		any = false
 	clearMsg
@@ -368,11 +368,7 @@ script 28 mmbn4-lc {
 }
 script 29 mmbn4-lc {
 	msgOpen
-	"\"Offer the black\n flames of destruc-\n tion that"
-	keyWait
-		any = false
-	clearMsg
-	" have a Z.\""
+	"\"Offer the black\n flames of destruction\n that have a Z.\""
 	keyWait
 		any = false
 	clearMsg

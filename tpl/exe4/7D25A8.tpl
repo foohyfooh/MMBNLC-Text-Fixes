@@ -230,8 +230,8 @@ script 14 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	The temp. will re-
-	turn to normal soon.
+	The temp. will return
+	to normal soon.
 	"""
 	keyWait
 		any = false

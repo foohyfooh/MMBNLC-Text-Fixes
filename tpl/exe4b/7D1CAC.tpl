@@ -6,8 +6,8 @@ script 0 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sharo's representa-
-	tive is ColdMan…
+	Sharo's representative
+	is ColdMan…
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,7 @@ script 4 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up
-	with him?
+	What's up with him?
 	"""
 	keyWait
 		any = false
@@ -192,24 +191,23 @@ script 12 mmbn4-lc {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Your opponent,Cold-
-	Man,is generating
+	Your opponent,ColdMan,is
+	generating huge numbers 
+	of snowmen on the 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	huge numbers of
-	snowmen on the Neto-
-	pia Area of the Net,
+	Netopia Area of the Net,
+	and it's wreaking havoc
+	on the temp. control
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it's wreaking
-	havoc on the temp.
-	control system here!
+	system here!
 	"""
 	keyWait
 		any = false
@@ -229,8 +227,7 @@ script 13 mmbn4-lc {
 	clearMsg
 	"""
 	And that man must've
-	been ColdMan's
-	operator.
+	been ColdMan's operator.
 	"""
 	keyWait
 		any = false
@@ -251,14 +248,14 @@ script 14 mmbn4-lc {
 	clearMsg
 	"""
 	intimidated by that
-	powerful looking
+	powerful looking Navi
+	ColdMan. 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi ColdMan. No one
-	is willing to go.
+	No one is willing to go.
 	"""
 	keyWait
 		any = false
@@ -271,8 +268,8 @@ script 15 mmbn4-lc {
 		mugshot = Lan
 	"""
 	So you want us to go
-	stop them from cool-
-	ing down the Net…
+	stop them from cooling
+	down the Net…
 	"""
 	keyWait
 		any = false
@@ -362,12 +359,14 @@ script 21 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure. We've got time"
+	"""
+	Sure. We've got time
+	before the match and
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before the match and
 	I doubt ColdMan will
 	do anything drastic.
 	"""

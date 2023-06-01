@@ -12,24 +12,15 @@ script 0 mmbn4-lc {
 	"""
 	Lan has clinched
 	the match amid the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"fierce blizzard!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The storm's subsided
-	and warm Sunlight
+	fierce blizzard!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is shining down upon
-	the victor!
+	The storm's subsided and
+	warm Sunlight is shining 
+	down upon the victor!
 	"""
 	keyWait
 		any = false

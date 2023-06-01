@@ -20,8 +20,8 @@ script 1 mmbn4-lc {
 		mugshot = Scientist
 	"""
 	Chillski's caused
-	this abnormal weath-
-	er by sending an
+	this abnormal weather
+	by sending an
 	"""
 	keyWait
 		any = false
@@ -95,11 +95,8 @@ script 3 mmbn4-lc {
 script 4 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
-	"Antennas? What do"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Antennas? What do
 	they have to do with
 	the blizzard?
 	"""
@@ -125,8 +122,8 @@ script 5 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	There are 4 parabol-
-	ic antennas in the
+	There are 4 parabolic
+	antennas in the
 	city of Sharo.
 	"""
 	keyWait
@@ -285,14 +282,8 @@ script 11 mmbn4-lc {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	But destroying
-	them alone
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	won't fix the-
+	But destroying them
+	alone won't fix the
 	antennas.
 	"""
 	keyWait
@@ -327,8 +318,8 @@ script 13 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	To function pro-
-	perly in Sharo's
+	To function properly
+	in Sharo's
 	cold climate,
 	"""
 	keyWait
@@ -337,12 +328,12 @@ script 13 mmbn4-lc {
 	"""
 	each antenna has a
 	system for warming
+	it's computer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's computer.
 	The CyberSnowmen
 	disabled them.
 	"""
@@ -359,8 +350,8 @@ script 13 mmbn4-lc {
 	clearMsg
 	"""
 	the heating systems
-	that keep the anten-
-	na's computers warm.
+	that keep the antenna's
+	computers warm.
 	"""
 	keyWait
 		any = false
@@ -383,8 +374,8 @@ script 15 mmbn4-lc {
 		mugshot = Scientist
 	"""
 	Right. The heating
-	systems are essen-
-	tially CyberTorches.
+	systems are essentially
+	CyberTorches.
 	"""
 	keyWait
 		any = false
@@ -458,15 +449,9 @@ script 18 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,first we have to
-	jack into the anten-
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	nas and destroy the
-	CyberSnowmen.
+	OK,first we have to jack
+	into the antennas and
+	destroy the CyberSnowmen.
 	"""
 	keyWait
 		any = false
@@ -500,23 +485,17 @@ script 19 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Once you destroy all
-	the CyberSnowmen,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	light the Cyber-
-	Torches ASAP.
+	Once you destroy all the
+	CyberSnowmen,light the
+	CyberTorches ASAP.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	If you take too
-	long,the CyberSnow-
-	men will regenerate.
+	long,the CyberSnowmen
+	will regenerate.
 	"""
 	keyWait
 		any = false

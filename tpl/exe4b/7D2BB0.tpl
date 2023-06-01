@@ -310,8 +310,8 @@ script 18 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	We will freeze Mega-
-	Man to core!!
+	We will freeze MegaMan
+	to core!!
 	"""
 	keyWait
 		any = false

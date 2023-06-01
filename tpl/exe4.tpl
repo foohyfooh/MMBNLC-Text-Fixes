@@ -140714,14 +140714,13 @@ script 10 mmbn4-lc {
 	"""
 	Even if I shovel,30
 	minutes later the
-	snow's piled up
+	snow's piled up again!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again! I'M SICK OF
-	SHOVELING!
+	I'M SICK OF SHOVELING!
 	"""
 	keyWait
 		any = false
@@ -140758,11 +140757,8 @@ script 12 mmbn4-lc {
 	"""
 	performance records
 	in the world--Even
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"better than NAXA's!"
+	better than NAXA's!
+	"""	
 	keyWait
 		any = false
 	end
@@ -161166,8 +161162,8 @@ script 4 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Light those Cyber-
-	Torches,MegaMan!
+	Light those
+	CyberTorches,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -161268,8 +161264,8 @@ script 4 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Light those Cyber-
-	Torches,MegaMan!
+	Light those
+	CyberTorches,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -161376,8 +161372,8 @@ script 5 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Light those Cyber-
-	Torches,MegaMan!
+	Light those
+	CyberTorches,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -161494,8 +161490,8 @@ script 6 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Light those Cyber-
-	Torches,MegaMan!
+	Light those
+	CyberTorches,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -268720,8 +268716,8 @@ script 0 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sharo's representa-
-	tive is ColdMan…
+	Sharo's representative
+	is ColdMan…
 	"""
 	keyWait
 		any = false
@@ -268788,8 +268784,7 @@ script 4 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up
-	with him?
+	What's up with him?
 	"""
 	keyWait
 		any = false
@@ -268906,24 +268901,23 @@ script 12 mmbn4-lc {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Your opponent,Cold-
-	Man,is generating
+	Your opponent,ColdMan,is
+	generating huge numbers 
+	of snowmen on the 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	huge numbers of
-	snowmen on the Neto-
-	pia Area of the Net,
+	Netopia Area of the Net,
+	and it's wreaking havoc
+	on the temp. control
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it's wreaking
-	havoc on the temp.
-	control system here!
+	system here!
 	"""
 	keyWait
 		any = false
@@ -268943,8 +268937,7 @@ script 13 mmbn4-lc {
 	clearMsg
 	"""
 	And that man must've
-	been ColdMan's
-	operator.
+	been ColdMan's operator.
 	"""
 	keyWait
 		any = false
@@ -268965,14 +268958,14 @@ script 14 mmbn4-lc {
 	clearMsg
 	"""
 	intimidated by that
-	powerful looking
+	powerful looking Navi
+	ColdMan. 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi ColdMan. No one
-	is willing to go.
+	No one is willing to go.
 	"""
 	keyWait
 		any = false
@@ -268985,8 +268978,8 @@ script 15 mmbn4-lc {
 		mugshot = Lan
 	"""
 	So you want us to go
-	stop them from cool-
-	ing down the Net…
+	stop them from cooling
+	down the Net…
 	"""
 	keyWait
 		any = false
@@ -269076,12 +269069,14 @@ script 21 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure. We've got time"
+	"""
+	Sure. We've got time
+	before the match and
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before the match and
 	I doubt ColdMan will
 	do anything drastic.
 	"""
@@ -269357,8 +269352,8 @@ script 14 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	The temp. will re-
-	turn to normal soon.
+	The temp. will return
+	to normal soon.
 	"""
 	keyWait
 		any = false
@@ -269586,8 +269581,8 @@ script 5 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	You mean that "natu-
-	ral cold" they were
+	You mean that "natural
+	cold" they were
 	talking about?
 	"""
 	keyWait
@@ -269630,19 +269625,16 @@ script 7 mmbn4-lc {
 script 8 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
-	"We gotta do some-"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	thing! Hmmm…
-	Didn't that mail say
+	We gotta do something!
+	Hmmm…
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something about the
+	Didn't that mail say 
+	something about the 
 	Sharo Space Center?
 	"""
 	keyWait
@@ -269669,8 +269661,8 @@ script 10 mmbn4-lc {
 		mugshot = Lan
 	"""
 	Yeah,I couldn't bear
-	to see the tourna-
-	ment canceled!
+	to see the tournament
+	canceled!
 	"""
 	keyWait
 		any = false
@@ -269702,8 +269694,8 @@ script 1 mmbn4-lc {
 		mugshot = Scientist
 	"""
 	Chillski's caused
-	this abnormal weath-
-	er by sending an
+	this abnormal weather
+	by sending an
 	"""
 	keyWait
 		any = false
@@ -269777,11 +269769,8 @@ script 3 mmbn4-lc {
 script 4 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
-	"Antennas? What do"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Antennas? What do
 	they have to do with
 	the blizzard?
 	"""
@@ -269807,8 +269796,8 @@ script 5 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	There are 4 parabol-
-	ic antennas in the
+	There are 4 parabolic
+	antennas in the
 	city of Sharo.
 	"""
 	keyWait
@@ -269967,14 +269956,8 @@ script 11 mmbn4-lc {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	But destroying
-	them alone
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	won't fix the-
+	But destroying them
+	alone won't fix the
 	antennas.
 	"""
 	keyWait
@@ -270009,8 +269992,8 @@ script 13 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	To function pro-
-	perly in Sharo's
+	To function properly
+	in Sharo's
 	cold climate,
 	"""
 	keyWait
@@ -270019,12 +270002,12 @@ script 13 mmbn4-lc {
 	"""
 	each antenna has a
 	system for warming
+	it's computer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's computer.
 	The CyberSnowmen
 	disabled them.
 	"""
@@ -270041,8 +270024,8 @@ script 13 mmbn4-lc {
 	clearMsg
 	"""
 	the heating systems
-	that keep the anten-
-	na's computers warm.
+	that keep the antenna's
+	computers warm.
 	"""
 	keyWait
 		any = false
@@ -270065,8 +270048,8 @@ script 15 mmbn4-lc {
 		mugshot = Scientist
 	"""
 	Right. The heating
-	systems are essen-
-	tially CyberTorches.
+	systems are essentially
+	CyberTorches.
 	"""
 	keyWait
 		any = false
@@ -270140,15 +270123,9 @@ script 18 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,first we have to
-	jack into the anten-
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	nas and destroy the
-	CyberSnowmen.
+	OK,first we have to jack
+	into the antennas and
+	destroy the CyberSnowmen.
 	"""
 	keyWait
 		any = false
@@ -270182,23 +270159,17 @@ script 19 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Once you destroy all
-	the CyberSnowmen,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	light the Cyber-
-	Torches ASAP.
+	Once you destroy all the
+	CyberSnowmen,light the
+	CyberTorches ASAP.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	If you take too
-	long,the CyberSnow-
-	men will regenerate.
+	long,the CyberSnowmen
+	will regenerate.
 	"""
 	keyWait
 		any = false
@@ -270534,8 +270505,8 @@ script 18 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	We will freeze Mega-
-	Man to core!!
+	We will freeze MegaMan
+	to core!!
 	"""
 	keyWait
 		any = false
@@ -270884,24 +270855,15 @@ script 0 mmbn4-lc {
 	"""
 	Lan has clinched
 	the match amid the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"fierce blizzard!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The storm's subsided
-	and warm Sunlight
+	fierce blizzard!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is shining down upon
-	the victor!
+	The storm's subsided and
+	warm Sunlight is shining 
+	down upon the victor!
 	"""
 	keyWait
 		any = false
@@ -277780,13 +277742,13 @@ script 20 mmbn4-lc {
 script 21 mmbn4-lc {
 	msgOpen
 	"""
-	Heating program
-	rebooting…
+	HEATING PROGRAM
+	REBOOTING…
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"System recovered."
+	"SYSTEM RECOVERED."
 	keyWait
 		any = false
 	clearMsg
@@ -277942,11 +277904,7 @@ script 28 mmbn4-lc {
 }
 script 29 mmbn4-lc {
 	msgOpen
-	"\"Offer the black\n flames of destruc-\n tion that"
-	keyWait
-		any = false
-	clearMsg
-	" have a Z.\""
+	"\"Offer the black\n flames of destruction\n that have a Z.\""
 	keyWait
 		any = false
 	clearMsg

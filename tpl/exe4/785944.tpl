@@ -90,14 +90,13 @@ script 10 mmbn4-lc {
 	"""
 	Even if I shovel,30
 	minutes later the
-	snow's piled up
+	snow's piled up again!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again! I'M SICK OF
-	SHOVELING!
+	I'M SICK OF SHOVELING!
 	"""
 	keyWait
 		any = false
@@ -134,11 +133,8 @@ script 12 mmbn4-lc {
 	"""
 	performance records
 	in the world--Even
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"better than NAXA's!"
+	better than NAXA's!
+	"""	
 	keyWait
 		any = false
 	end

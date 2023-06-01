@@ -66,8 +66,8 @@ script 4 mmbn4-lc {
 		mugshot = Lan
 	msgOpen
 	"""
-	Light those Cyber-
-	Torches,MegaMan!
+	Light those
+	CyberTorches,MegaMan!
 	"""
 	keyWait
 		any = false

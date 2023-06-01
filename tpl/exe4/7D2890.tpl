@@ -140,8 +140,8 @@ script 5 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	You mean that "natu-
-	ral cold" they were
+	You mean that "natural
+	cold" they were
 	talking about?
 	"""
 	keyWait
@@ -184,19 +184,16 @@ script 7 mmbn4-lc {
 script 8 mmbn4-lc {
 	mugshotShow
 		mugshot = Lan
-	"We gotta do some-"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	thing! Hmmm…
-	Didn't that mail say
+	We gotta do something!
+	Hmmm…
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something about the
+	Didn't that mail say 
+	something about the 
 	Sharo Space Center?
 	"""
 	keyWait
@@ -223,8 +220,8 @@ script 10 mmbn4-lc {
 		mugshot = Lan
 	"""
 	Yeah,I couldn't bear
-	to see the tourna-
-	ment canceled!
+	to see the tournament
+	canceled!
 	"""
 	keyWait
 		any = false
