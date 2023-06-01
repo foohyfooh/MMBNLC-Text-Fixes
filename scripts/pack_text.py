@@ -12,8 +12,11 @@ for game, exe, textpet_name in zip(game_names, exe_names, textpet_names):
   extracted_path = f'extracted/{exe}/'
   tpl_path = extracted_path.replace('extracted', 'tpl')
   output_msg_path = extracted_path.replace('extracted', 'output_msg')
-  subprocess.run(['TextPet/TextPet.exe', 'Load-Plugins', 'TextPet/plugins', 'Game', textpet_name, 'Read-Text-Archives', extracted_path, '--format', 'msg', 'Read-Text-Archives', tpl_path, '--format', 'tpl', '--patch', 'Write-Text-Archives', output_msg_path, '--format', 'msg'], stdout=subprocess.DEVNULL)
-
+  res = subprocess.run(['TextPet/TextPet.exe', 'Load-Plugins', 'TextPet/plugins', 'Game', textpet_name, 'Read-Text-Archives', extracted_path, '--format', 'msg', 'Read-Text-Archives', tpl_path, '--format', 'tpl', '--patch', 'Write-Text-Archives', output_msg_path, '--format', 'msg'], stdout=subprocess.DEVNULL)
+  if res.returncode != 0:
+    print(f'Failed with return code {res.returncode}')
+    exit(1)
+  
   # Building Back Text
   input_map_path = f'data/{exe}/message_eng.map'
   output_path = output_msg_path.replace('output_msg', 'output')
