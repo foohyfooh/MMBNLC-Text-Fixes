@@ -141474,12 +141474,12 @@ script 141 mmbn4-lc {
 	"""
 	I think you can get
 	a chip to light the
+	CyberTorches,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CyberTorches,
 	either on the Net
 	or in a shop…
 	"""
