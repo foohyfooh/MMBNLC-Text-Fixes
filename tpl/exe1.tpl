@@ -155080,7 +155080,7 @@ script 6 mmbn1-lc {
 	msgOpen
 	mugshotAnimate
 		animation = 2
-	"Load Chaud,sir!"
+	"Lord Chaud,sir!"
 	mugshotAnimate
 		animation = 1
 	keyWait
@@ -156606,7 +156606,7 @@ script 10 mmbn1-lc {
 	mugshotAnimate
 		animation = 2
 	"""
-	Load Chaud,you
+	Lord Chaud,you
 	have mail from HQ.
 	"""
 	mugshotAnimate
