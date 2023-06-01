@@ -61,3 +61,7 @@ Run `python scripts/extract_text.py` to get the text from the data. This will ge
 *Note: This will not overwrite the existing tpl files. Delete the whole folder if you wish to obtain the original files.*
 
 Run `python scripts/pack_text.py` to build the map and mpak files to be put back into the game.
+
+## Credits
+- [Prof. 9](https://github.com/Prof9) for [TextPet](https://github.com/Prof9/TextPet)
+- [The Rockman EXE Zone](https://github.com/RockmanEXEZone) for [MMBNLC-Scripts](https://github.com/RockmanEXEZone/MMBNLC-Scripts)
