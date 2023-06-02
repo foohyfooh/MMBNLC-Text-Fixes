@@ -16,7 +16,7 @@ for game, exe, textpet_name in zip(game_names, exe_names, textpet_names):
   if res.returncode != 0:
     print(f'Failed with return code {res.returncode}')
     exit(1)
-  
+
   # Building Back Text
   input_map_path = f'data/{exe}/message_eng.map'
   output_path = output_msg_path.replace('output_msg', 'output')
