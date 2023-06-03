@@ -108018,11 +108018,8 @@ script 233 mmbn4-lc {
 	"""
 	Higsby's is the
 	best chip shop,but
+	it's closed now.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"it's closed now."
 	keyWait
 		any = false
 	end
