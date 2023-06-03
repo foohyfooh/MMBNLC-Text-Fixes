@@ -84,13 +84,9 @@ script 1 mmbn4-lc {
 	clearMsg
 	"""
 	Even here in NAXA's
-	outer-space
-	ObservRm,
+	outer-space ObservRm,
+	Netopia is boring.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Netopia is boring."
 	keyWait
 		any = false
 	clearMsg
@@ -149,14 +145,8 @@ script 3 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Discovering a new
-	galaxy or
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	watching an unknown
+	Discovering a new galaxy
+	or watching an unknown
 	comet shoot past…
 	"""
 	keyWait

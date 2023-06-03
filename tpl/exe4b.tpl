@@ -40902,28 +40902,22 @@ script 19 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The chip data you
-	sent is shown above
+	The chip data you sent
+	is shown above my head.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my head.
 	Use it with [SwitchA],
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	but each can
 	only be used once.
-	If a virus remains
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	If a virus remains
 	even after you used
 	all your chips…
 	"""
@@ -40958,14 +40952,8 @@ script 21 mmbn4-lc {
 	clearMsg
 	"""
 	Once it's full,
-	I can access the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Custom screen again
-	with [SwitchL]/[SwitchR].
+	I can access the Custom
+	screen again with [SwitchL]/[SwitchR].
 	"""
 	keyWait
 		any = false
@@ -41058,8 +41046,8 @@ script 1 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Using it with Wide-
-	Swrd is a very
+	Using it with
+	WideSwrd is a very
 	effective strategy.
 	"""
 	keyWait
@@ -41113,16 +41101,16 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	chips can be select-
-	ed together if they
+	chips can be selected
+	together if they
 	have the same code.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see…Area-
-	Grab and WideSwrd
+	Let's see…
+	AreaGrab and WideSwrd
 	have the same code,
 	"""
 	keyWait
@@ -41137,8 +41125,7 @@ script 4 mmbn4-lc {
 	clearMsg
 	"""
 	The chips with an
-	"*" are like wild-
-	cards.
+	"*" are like wildcards.
 	"""
 	keyWait
 		any = false
@@ -41159,8 +41146,8 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Attack with Area-
-	Grab and WideSwrd!
+	Attack with AreaGrab
+	and WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -41341,13 +41328,7 @@ script 16 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	part of the
-	viruses's
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	part of the viruses's
 	area will become
 	ours to use.
 	"""
@@ -41422,9 +41403,8 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Take a look
-	at the "Emotion
-	Window" here.
+	Take a look at the
+	"Emotion Window" here.
 	"""
 	keyWait
 		any = false
@@ -41441,13 +41421,9 @@ script 3 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"By looking here,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	you can tell how
-	well you're
+	By looking here,you can
+	tell how well you're
 	operating your Navi.
 	"""
 	keyWait
@@ -41555,8 +41531,8 @@ script 8 mmbn4-lc {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Counter means us-
-	ing a chip attack
+	Counter means using
+	a chip attack
 	"""
 	keyWait
 		any = false
@@ -191477,13 +191453,9 @@ script 1 mmbn4-lc {
 	clearMsg
 	"""
 	Even here in NAXA's
-	outer-space
-	ObservRm,
+	outer-space ObservRm,
+	Netopia is boring.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Netopia is boring."
 	keyWait
 		any = false
 	clearMsg
@@ -191542,14 +191514,8 @@ script 3 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Discovering a new
-	galaxy or
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	watching an unknown
+	Discovering a new galaxy
+	or watching an unknown
 	comet shoot past…
 	"""
 	keyWait

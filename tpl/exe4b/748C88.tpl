@@ -31,8 +31,8 @@ script 1 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Using it with Wide-
-	Swrd is a very
+	Using it with
+	WideSwrd is a very
 	effective strategy.
 	"""
 	keyWait
@@ -86,16 +86,16 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	chips can be select-
-	ed together if they
+	chips can be selected
+	together if they
 	have the same code.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see…Area-
-	Grab and WideSwrd
+	Let's see…
+	AreaGrab and WideSwrd
 	have the same code,
 	"""
 	keyWait
@@ -110,8 +110,7 @@ script 4 mmbn4-lc {
 	clearMsg
 	"""
 	The chips with an
-	"*" are like wild-
-	cards.
+	"*" are like wildcards.
 	"""
 	keyWait
 		any = false
@@ -132,8 +131,8 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Attack with Area-
-	Grab and WideSwrd!
+	Attack with AreaGrab
+	and WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -314,13 +313,7 @@ script 16 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	part of the
-	viruses's
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	part of the viruses's
 	area will become
 	ours to use.
 	"""

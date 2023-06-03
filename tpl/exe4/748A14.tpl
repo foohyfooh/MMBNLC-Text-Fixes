@@ -396,28 +396,22 @@ script 19 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The chip data you
-	sent is shown above
+	The chip data you sent
+	is shown above my head.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my head.
 	Use it with [SwitchA],
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	but each can
 	only be used once.
-	If a virus remains
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	If a virus remains
 	even after you used
 	all your chips…
 	"""
@@ -452,14 +446,8 @@ script 21 mmbn4-lc {
 	clearMsg
 	"""
 	Once it's full,
-	I can access the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Custom screen again
-	with [SwitchL]/[SwitchR].
+	I can access the Custom
+	screen again with [SwitchL]/[SwitchR].
 	"""
 	keyWait
 		any = false

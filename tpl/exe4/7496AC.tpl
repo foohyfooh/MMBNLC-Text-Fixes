@@ -34,9 +34,8 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Take a look
-	at the "Emotion
-	Window" here.
+	Take a look at the
+	"Emotion Window" here.
 	"""
 	keyWait
 		any = false
@@ -53,13 +52,9 @@ script 3 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"By looking here,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	you can tell how
-	well you're
+	By looking here,you can
+	tell how well you're
 	operating your Navi.
 	"""
 	keyWait
@@ -167,8 +162,8 @@ script 8 mmbn4-lc {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Counter means us-
-	ing a chip attack
+	Counter means using
+	a chip attack
 	"""
 	keyWait
 		any = false
