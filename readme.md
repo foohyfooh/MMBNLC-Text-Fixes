@@ -1,5 +1,7 @@
 # Mega Man Battle Network Legacy Collection Text Fixes
-This project is meant to clean up the various text errors that occur in the legacy collection such as "Load Chaud" and "Leg's go, Lan".
+This project is meant to clean up the various text errors that occur in the legacy collection such as "Load Chaud, sir", "Leg's go, Lan", odd phrasing, and weird breaks in the middle of sentences to new message boxes.
+
+*Note that the TPL files were generated from the Switch version and I don't know if that has any effect on the places where they display the button to press.*
 
 ## Setup
 Clone this repo with the [MMBNLC-Scripts](https://github.com/RockmanEXEZone/MMBNLC-Scripts).
