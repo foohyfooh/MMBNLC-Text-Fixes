@@ -195556,7 +195556,7 @@ script 9 mmbn4-lc {
 script 10 mmbn4-lc {
 	mugshotShow
 		mugshot = MegaMan
-	"Leg's go,Lan!"
+	"Let's go,Lan!"
 	keyWait
 		any = false
 	clearMsg
