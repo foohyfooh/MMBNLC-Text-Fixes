@@ -320,8 +320,8 @@ script 26 mmbn4-lc {
 	msgOpen
 	"""
 	You can enter the
-	City Battle Tournam-
-	ent in the Square!
+	City Battle Tournament
+	in the Square!
 	"""
 	keyWait
 		any = false

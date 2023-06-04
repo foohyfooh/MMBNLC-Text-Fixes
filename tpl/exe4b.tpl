@@ -116751,8 +116751,8 @@ script 26 mmbn4-lc {
 	msgOpen
 	"""
 	You can enter the
-	City Battle Tournam-
-	ent in the Square!
+	City Battle Tournament
+	in the Square!
 	"""
 	keyWait
 		any = false
@@ -119491,13 +119491,15 @@ script 32 mmbn4-lc {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"I lost at the"
+	"""
+	I lost at the
+	preliminary.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	preliminary. I'd
-	better go home
+	I'd better go home
 	and practice more.
 	"""
 	keyWait
@@ -120978,12 +120980,12 @@ script 2 mmbn4-lc {
 	"""
 	The man who talked
 	about the tournament
+	was touching this…
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was touching this…
 	Wait,MegaMan!
 	"""
 	keyWait
@@ -121274,11 +121276,8 @@ script 17 mmbn4-lc {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ever hear about the"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Ever hear about the
 	legend of Mettaur
 	Village?
 	"""
@@ -169143,15 +169142,9 @@ script 1 mmbn4-lc {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Black Navi
-	grabbed the girl
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and ran off into
-	that warp point.
+	The Black Navi grabbed
+	the girl and ran off 
+	into that warp point.
 	"""
 	keyWait
 		any = false
@@ -194719,11 +194712,11 @@ script 8 mmbn4-lc {
 		value = 2
 	mugshotShow
 		mugshot = MegaMan
-	"We came from the \nTown Area,so it must"
-	keyWait
-		any = false
-	clearMsg
-	"be in ElecTown!"
+	"""
+	We came from the
+	Town Area,so it must
+	be in ElecTown!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -195448,14 +195441,8 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	I was able to use
-	this switch
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to turn the volume
+	I was able to use this
+	switch to turn the volume
 	all the way down!
 	"""
 	keyWait
@@ -196386,12 +196373,12 @@ script 17 mmbn4-lc {
 	"""
 	I've heard that
 	their ego decays,
+	and that leads to
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that leads to
 	…destruction.
 	"""
 	keyWait
@@ -196452,14 +196439,8 @@ script 21 mmbn4-lc {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Already,the
-	DarkChip's program
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	may be having an
+	Already,the DarkChip's
+	program may be having an
 	effect on MegaMan.
 	"""
 	keyWait
@@ -196519,15 +196500,9 @@ script 24 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	It can only be
-	handled by someone
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	strong enough to
-	resist its pull!
+	It can only be handled
+	by someone strong enough
+	to resist its pull!
 	"""
 	keyWait
 		any = false

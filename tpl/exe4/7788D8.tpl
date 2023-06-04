@@ -739,13 +739,15 @@ script 32 mmbn4-lc {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"I lost at the"
+	"""
+	I lost at the
+	preliminary.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	preliminary. I'd
-	better go home
+	I'd better go home
 	and practice more.
 	"""
 	keyWait

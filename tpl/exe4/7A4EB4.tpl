@@ -59,14 +59,8 @@ script 4 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	I was able to use
-	this switch
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to turn the volume
+	I was able to use this
+	switch to turn the volume
 	all the way down!
 	"""
 	keyWait

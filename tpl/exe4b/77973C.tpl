@@ -41,12 +41,12 @@ script 2 mmbn4-lc {
 	"""
 	The man who talked
 	about the tournament
+	was touching this…
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was touching this…
 	Wait,MegaMan!
 	"""
 	keyWait
@@ -337,11 +337,8 @@ script 17 mmbn4-lc {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ever hear about the"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Ever hear about the
 	legend of Mettaur
 	Village?
 	"""

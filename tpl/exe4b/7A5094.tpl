@@ -290,12 +290,12 @@ script 17 mmbn4-lc {
 	"""
 	I've heard that
 	their ego decays,
+	and that leads to
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that leads to
 	…destruction.
 	"""
 	keyWait
@@ -356,14 +356,8 @@ script 21 mmbn4-lc {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Already,the
-	DarkChip's program
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	may be having an
+	Already,the DarkChip's
+	program may be having an
 	effect on MegaMan.
 	"""
 	keyWait
@@ -423,15 +417,9 @@ script 24 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	It can only be
-	handled by someone
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	strong enough to
-	resist its pull!
+	It can only be handled
+	by someone strong enough
+	to resist its pull!
 	"""
 	keyWait
 		any = false

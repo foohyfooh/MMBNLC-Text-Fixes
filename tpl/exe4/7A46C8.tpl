@@ -147,11 +147,11 @@ script 8 mmbn4-lc {
 		value = 2
 	mugshotShow
 		mugshot = MegaMan
-	"We came from the \nTown Area,so it must"
-	keyWait
-		any = false
-	clearMsg
-	"be in ElecTown!"
+	"""
+	We came from the
+	Town Area,so it must
+	be in ElecTown!
+	"""
 	keyWait
 		any = false
 	clearMsg

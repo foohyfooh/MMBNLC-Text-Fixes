@@ -42,15 +42,9 @@ script 1 mmbn4-lc {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Black Navi
-	grabbed the girl
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and ran off into
-	that warp point.
+	The Black Navi grabbed
+	the girl and ran off 
+	into that warp point.
 	"""
 	keyWait
 		any = false
