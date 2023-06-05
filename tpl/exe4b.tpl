@@ -119076,8 +119076,7 @@ script 12 mmbn4-lc {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Dad might come
-	back.
+	Dad might come back.
 	"""
 	keyWait
 		any = false
