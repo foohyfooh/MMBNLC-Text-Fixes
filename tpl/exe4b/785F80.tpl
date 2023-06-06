@@ -210,34 +210,29 @@ script 2 mmbn4-lc {
 	"""
 	When installed,
 	we can keep track
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	of where MegaMan is.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	If something were to
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	happen to MegaMan…
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	we will have to come
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	up with another plan
-	to stop the aster-
-	oid. Of course we
+	to stop the asteroid.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hope nothing happens
+	Of course we hope
+	nothing happens
 	to him though.
 	"""
 	keyWait

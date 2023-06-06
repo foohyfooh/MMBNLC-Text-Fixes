@@ -448,18 +448,15 @@ script 55 mmbn4-lc {
 	"""
 	An Official came in
 	here and is telling
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	everyone to go home!
-	Did Castillo do
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"something bad?"
+	"""
+	Did Castillo do
+	something bad?
+	"""
 	keyWait
 		any = false
 	end
@@ -483,11 +480,8 @@ script 57 mmbn4-lc {
 	"""
 	Why do we have to
 	leave?! We were just
+	having fun!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"having fun!"
 	keyWait
 		any = false
 	end

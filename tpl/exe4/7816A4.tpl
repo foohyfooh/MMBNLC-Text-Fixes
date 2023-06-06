@@ -463,12 +463,12 @@ script 31 mmbn4-lc {
 	"""
 	Mami,you're like the
 	morning star in the
+	night sky to me!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	night sky to me!
 	Always shining forth
 	just out of reach!
 	"""

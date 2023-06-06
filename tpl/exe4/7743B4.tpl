@@ -154,28 +154,28 @@ script 25 mmbn4-lc {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I heard from Dad. If"
+	"I heard from Dad."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're going to
+	If you're going to
 	fight to save our
+	planet,then I'm
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planet,then I'm
 	going to watch over
 	our home until you
+	get back,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get back,Lan. I
-	won't run away!
+	I won't run away!
 	"""
 	keyWait
 		any = false
@@ -195,12 +195,12 @@ script 30 mmbn4-lc {
 	"""
 	Watch over this home
 	and cheer you up as
-	you head out. Now
+	you head out.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"go make me proud!"
+	"Now go make me proud!"
 	keyWait
 		any = false
 	end
@@ -209,11 +209,10 @@ script 35 mmbn4-lc {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I'll be here until"
-	keyWait
-		any = false
-	clearMsg
-	"you come back Lan."
+	"""
+	I'll be here until
+	you come back Lan.
+	"""
 	keyWait
 		any = false
 	end

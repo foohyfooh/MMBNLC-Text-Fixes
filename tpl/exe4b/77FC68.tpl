@@ -660,11 +660,10 @@ script 58 mmbn4-lc {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I wanna go to the"
-	keyWait
-		any = false
-	clearMsg
-	"castle! The castle!"
+	"""
+	I wanna go to the
+	castle! The castle!
+	"""
 	keyWait
 		any = false
 	end
@@ -683,12 +682,9 @@ script 60 mmbn4-lc {
 	clearMsg
 	"""
 	We can't afford to
-	close it,but the 
+	close it,but the
+	Officials made us…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Officials made us…"
 	keyWait
 		any = false
 	end

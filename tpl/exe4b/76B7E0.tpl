@@ -78,12 +78,12 @@ script 4 mmbn4-lc {
 	"""
 	The smell of bread
 	and kebab meat
+	sure gets your
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure gets your
 	belly growling!
 	"""
 	keyWait

@@ -96,13 +96,14 @@ script 4 mmbn4-lc {
 	"""
 	Please hurry up the
 	stairs and into the
+	back room.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back room. Everyone
-	is waiting for you.
+	Everyone is waiting
+	for you.
 	"""
 	keyWait
 		any = false

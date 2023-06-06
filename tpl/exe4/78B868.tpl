@@ -121,16 +121,16 @@ script 11 mmbn4-lc {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
-	keyWait
-		any = false
-	clearMsg
-	"representative from \nElectopia,right? I"
+	"""
+	Hi! You're the
+	representative from
+	Electopia,right?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched you at the
+	I watched you at the
 	Eagle Tournament!
 	"""
 	keyWait
@@ -176,19 +176,16 @@ script 13 mmbn4-lc {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Hi! You're the
 	representative from
-	Electopia,right? I
+	Electopia,right?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched you at the
+	I watched you at the
 	Hawk Tournament!
 	"""
 	keyWait

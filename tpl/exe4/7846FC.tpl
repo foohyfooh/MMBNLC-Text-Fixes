@@ -516,11 +516,8 @@ script 34 mmbn4-lc {
 	"""
 	light trails behind…
 	What happens after
+	that is not clear…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"that is not clear…"
 	keyWait
 		any = false
 	end

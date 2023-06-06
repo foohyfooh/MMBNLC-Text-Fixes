@@ -103,13 +103,13 @@ script 30 mmbn4-lc {
 	msgOpen
 	"""
 	Oohwee! Take a look
-	at that view! Say,
+	at that view!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where are all the
+	Say,where are all the
 	spectators…?
 	"""
 	keyWait
@@ -120,11 +120,10 @@ script 31 mmbn4-lc {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Wow! She looks like"
-	keyWait
-		any = false
-	clearMsg
-	"a princess!"
+	"""
+	Wow! She looks like
+	a princess!
+	"""
 	keyWait
 		any = false
 	end

@@ -66,13 +66,7 @@ script 4 mmbn4-lc {
 	"""
 	The criminal who
 	damaged the Net is
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	hiding in
-	Park Area1!
+	hiding in Park Area1!
 	"""
 	keyWait
 		any = false

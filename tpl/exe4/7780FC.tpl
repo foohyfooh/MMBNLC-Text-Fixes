@@ -492,12 +492,9 @@ script 51 mmbn4-lc {
 	msgOpen
 	"""
 	The Officials are
-	out in force…Did
+	out in force…
+	Did something happen?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"something happen?"
 	keyWait
 		any = false
 	end
@@ -809,11 +806,8 @@ script 73 mmbn4-lc {
 	"""
 	Excuse me,but would
 	you mind not talking
+	to me? Let's see…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"to me? Let's see…"
 	keyWait
 		any = false
 	clearMsg

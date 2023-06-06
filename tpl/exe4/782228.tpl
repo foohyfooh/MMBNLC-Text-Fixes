@@ -1498,13 +1498,14 @@ script 62 mmbn4-lc {
 	msgOpen
 	"""
 	Hey you! You made it
-	to the finals? Right
+	to the finals?
+	Right on!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on! I got heaps of
+	I got heaps of
 	respect for you,man!
 	"""
 	keyWait

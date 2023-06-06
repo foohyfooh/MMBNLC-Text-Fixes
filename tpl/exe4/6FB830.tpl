@@ -455,11 +455,8 @@ script 8 mmbn4-lc {
 	"""
 	"DS". Anyhoo,I hear
 	they can only be
+	used by evil Navis.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"used by evil Navis."
 	keyWait
 		any = false
 	waitHold

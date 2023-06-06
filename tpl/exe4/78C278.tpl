@@ -520,11 +520,8 @@ script 26 mmbn4-lc {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"Oh no! My operator's"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Oh no! My operator's
 	calling! I have to
 	go!
 	"""

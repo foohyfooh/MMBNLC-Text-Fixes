@@ -285,20 +285,16 @@ script 22 mmbn4-lc {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	There were things
-	on the Net blocking
+	There were things on the
+	Net blocking me from
+	going to other areas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	me from going to
-	other areas. What
+	What were they?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"were they?"
 	keyWait
 		any = false
 	end

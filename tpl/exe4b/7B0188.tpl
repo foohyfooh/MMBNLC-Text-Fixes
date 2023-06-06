@@ -91,7 +91,7 @@ script 6 mmbn4-lc {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Mr.Hikari,is
+	Dr.Hikari,is
 	something wrong?
 	"""
 	keyWait
@@ -222,7 +222,7 @@ script 12 mmbn4-lc {
 	clearMsg
 	"""
 	Well spotted,
-	Mr.Hikari.
+	Dr.Hikari.
 	"""
 	keyWait
 		any = false

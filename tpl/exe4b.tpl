@@ -25874,11 +25874,8 @@ script 8 mmbn4-lc {
 	"""
 	"DS". Anyhoo,I hear
 	they can only be
+	used by evil Navis.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"used by evil Navis."
 	keyWait
 		any = false
 	waitHold
@@ -97752,12 +97749,12 @@ script 4 mmbn4-lc {
 	"""
 	The smell of bread
 	and kebab meat
+	sure gets your
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure gets your
 	belly growling!
 	"""
 	keyWait
@@ -111926,28 +111923,28 @@ script 25 mmbn4-lc {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I heard from Dad. If"
+	"I heard from Dad."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're going to
+	If you're going to
 	fight to save our
+	planet,then I'm
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planet,then I'm
 	going to watch over
 	our home until you
+	get back,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get back,Lan. I
-	won't run away!
+	I won't run away!
 	"""
 	keyWait
 		any = false
@@ -111967,12 +111964,12 @@ script 30 mmbn4-lc {
 	"""
 	Watch over this home
 	and cheer you up as
-	you head out. Now
+	you head out.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"go make me proud!"
+	"Now go make me proud!"
 	keyWait
 		any = false
 	end
@@ -111981,11 +111978,10 @@ script 35 mmbn4-lc {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I'll be here until"
-	keyWait
-		any = false
-	clearMsg
-	"you come back Lan."
+	"""
+	I'll be here until
+	you come back Lan.
+	"""
 	keyWait
 		any = false
 	end
@@ -118366,12 +118362,9 @@ script 51 mmbn4-lc {
 	msgOpen
 	"""
 	The Officials are
-	out in force…Did
+	out in force…
+	Did something happen?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"something happen?"
 	keyWait
 		any = false
 	end
@@ -118683,11 +118676,8 @@ script 73 mmbn4-lc {
 	"""
 	Excuse me,but would
 	you mind not talking
+	to me? Let's see…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"to me? Let's see…"
 	keyWait
 		any = false
 	clearMsg
@@ -129325,18 +129315,15 @@ script 55 mmbn4-lc {
 	"""
 	An Official came in
 	here and is telling
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	everyone to go home!
-	Did Castillo do
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"something bad?"
+	"""
+	Did Castillo do
+	something bad?
+	"""
 	keyWait
 		any = false
 	end
@@ -129360,11 +129347,8 @@ script 57 mmbn4-lc {
 	"""
 	Why do we have to
 	leave?! We were just
+	having fun!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"having fun!"
 	keyWait
 		any = false
 	end
@@ -132185,11 +132169,10 @@ script 58 mmbn4-lc {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I wanna go to the"
-	keyWait
-		any = false
-	clearMsg
-	"castle! The castle!"
+	"""
+	I wanna go to the
+	castle! The castle!
+	"""
 	keyWait
 		any = false
 	end
@@ -132208,12 +132191,9 @@ script 60 mmbn4-lc {
 	clearMsg
 	"""
 	We can't afford to
-	close it,but the 
+	close it,but the
+	Officials made us…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Officials made us…"
 	keyWait
 		any = false
 	end
@@ -132592,13 +132572,13 @@ script 30 mmbn4-lc {
 	msgOpen
 	"""
 	Oohwee! Take a look
-	at that view! Say,
+	at that view!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where are all the
+	Say,where are all the
 	spectators…?
 	"""
 	keyWait
@@ -132609,11 +132589,10 @@ script 31 mmbn4-lc {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Wow! She looks like"
-	keyWait
-		any = false
-	clearMsg
-	"a princess!"
+	"""
+	Wow! She looks like
+	a princess!
+	"""
 	keyWait
 		any = false
 	end
@@ -134024,12 +134003,12 @@ script 31 mmbn4-lc {
 	"""
 	Mami,you're like the
 	morning star in the
+	night sky to me!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	night sky to me!
 	Always shining forth
 	just out of reach!
 	"""
@@ -136047,13 +136026,14 @@ script 62 mmbn4-lc {
 	msgOpen
 	"""
 	Hey you! You made it
-	to the finals? Right
+	to the finals?
+	Right on!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on! I got heaps of
+	I got heaps of
 	respect for you,man!
 	"""
 	keyWait
@@ -138282,20 +138262,16 @@ script 22 mmbn4-lc {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	There were things
-	on the Net blocking
+	There were things on the
+	Net blocking me from
+	going to other areas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	me from going to
-	other areas. What
+	What were they?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"were they?"
 	keyWait
 		any = false
 	end
@@ -139106,11 +139082,8 @@ script 34 mmbn4-lc {
 	"""
 	light trails behind…
 	What happens after
+	that is not clear…
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"that is not clear…"
 	keyWait
 		any = false
 	end
@@ -141882,34 +141855,29 @@ script 2 mmbn4-lc {
 	"""
 	When installed,
 	we can keep track
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	of where MegaMan is.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	If something were to
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	happen to MegaMan…
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	we will have to come
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	up with another plan
-	to stop the aster-
-	oid. Of course we
+	to stop the asteroid.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hope nothing happens
+	Of course we hope
+	nothing happens
 	to him though.
 	"""
 	keyWait
@@ -142521,13 +142489,14 @@ script 4 mmbn4-lc {
 	"""
 	Please hurry up the
 	stairs and into the
+	back room.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back room. Everyone
-	is waiting for you.
+	Everyone is waiting
+	for you.
 	"""
 	keyWait
 		any = false
@@ -152878,16 +152847,16 @@ script 11 mmbn4-lc {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
-	keyWait
-		any = false
-	clearMsg
-	"representative from \nElectopia,right? I"
+	"""
+	Hi! You're the
+	representative from
+	Electopia,right?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched you at the
+	I watched you at the
 	Eagle Tournament!
 	"""
 	keyWait
@@ -152933,19 +152902,16 @@ script 13 mmbn4-lc {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Hi! You're the
 	representative from
-	Electopia,right? I
+	Electopia,right?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched you at the
+	I watched you at the
 	Hawk Tournament!
 	"""
 	keyWait
@@ -154424,11 +154390,8 @@ script 26 mmbn4-lc {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"Oh no! My operator's"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Oh no! My operator's
 	calling! I have to
 	go!
 	"""
@@ -212526,13 +212489,7 @@ script 4 mmbn4-lc {
 	"""
 	The criminal who
 	damaged the Net is
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	hiding in
-	Park Area1!
+	hiding in Park Area1!
 	"""
 	keyWait
 		any = false
@@ -213309,7 +213266,7 @@ script 6 mmbn4-lc {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Mr.Hikari,is
+	Dr.Hikari,is
 	something wrong?
 	"""
 	keyWait
@@ -213440,7 +213397,7 @@ script 12 mmbn4-lc {
 	clearMsg
 	"""
 	Well spotted,
-	Mr.Hikari.
+	Dr.Hikari.
 	"""
 	keyWait
 		any = false
