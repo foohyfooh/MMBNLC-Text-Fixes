@@ -3479,7 +3479,10 @@ script 192 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"2: Number of Hotdog"
+	"""
+	2: Number of Hotdogs
+	in DenDome stand
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -3498,7 +3501,10 @@ script 192 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"5: Number of trees \nvisible in ACDC Town"
+	"""
+	5: Number of trees
+	visible in ACDC Town
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -3597,7 +3603,10 @@ script 194 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"3: Number of Hotdog"
+	"""
+	3: Number of Hotdogs
+	in DenDome stand
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -3624,7 +3633,10 @@ script 194 mmbn4-lc {
 	keyWait
 		any = false
 	clearMsg
-	"7: Number of trees \nvisible in ACDC Town"
+	"""
+	7: Number of trees
+	visible in ACDC Town
+	"""
 	waitHold
 }
 script 195 mmbn4-lc {
