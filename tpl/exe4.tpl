@@ -221324,8 +221324,8 @@ script 0 mmbn4-lc {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
+	Ladies and gentlemen!!
+	Here are
 	today's entrants!
 	"""
 	keyWait
@@ -221347,12 +221347,12 @@ script 1 mmbn4-lc {
 	"""
 	Next,I'd like to
 	introduce the grade
+	school NetBattler,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
 	Lan!!
 	"""
 	keyWait
@@ -224305,8 +224305,8 @@ script 0 mmbn4-lc {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
+	Ladies and gentlemen!!
+	Here are
 	today's entrants!
 	"""
 	keyWait
@@ -224353,12 +224353,12 @@ script 2 mmbn4-lc {
 	"""
 	Next,I'd like to
 	introduce the grade
+	school NetBattler,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
 	Lan!!
 	"""
 	keyWait
@@ -229537,8 +229537,8 @@ script 0 mmbn4-lc {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
+	Ladies and gentlemen!!
+	Here are
 	today's entrants!
 	"""
 	keyWait
@@ -229569,12 +229569,12 @@ script 2 mmbn4-lc {
 	"""
 	Next,I'd like to
 	introduce the grade
+	school NetBattler,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
 	Lan!!
 	"""
 	keyWait
@@ -267854,9 +267854,8 @@ script 0 mmbn4-lc {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"""
-	Ladies and gentle-
-	men!!
+	"""	
+	Ladies and gentlemen!!
 	"""
 	keyWait
 		any = false
