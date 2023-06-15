@@ -348,12 +348,12 @@ script 17 mmbn4-lc {
 	"""
 	Somewhere in DenCity
 	there's a hidden
+	computer where all
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	computer where all
 	the Mettaur live.
 	"""
 	keyWait
@@ -361,14 +361,14 @@ script 17 mmbn4-lc {
 	clearMsg
 	"""
 	I actually found it
-	once myself! But I
+	once myself!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	left some important
-	data there…
+	But I left some
+	important data there…
 	"""
 	keyWait
 		any = false
@@ -382,15 +382,9 @@ script 17 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Can you find it for
-	me and recover the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	data that I left
-	behind there?
+	Can you find it for me
+	and recover the data
+	that I left behind there?
 	"""
 	keyWait
 		any = false
@@ -438,18 +432,17 @@ script 17 mmbn4-lc {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Oh. I thought you"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Oh. I thought you
 	could help me…
-	Now what am I
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"going to do…?"
+	"""
+	Now what am I
+	going to do…?
+	"""
 	keyWait
 		any = false
 	flagSet
@@ -474,12 +467,12 @@ script 18 mmbn4-lc {
 	"""
 	Somewhere in DenCity
 	there's a hidden
+	computer where all
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	computer where all
 	the Mettaur live.
 	"""
 	keyWait
@@ -501,15 +494,9 @@ script 18 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	Can you find it for
-	me and recover the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	data that I left
-	behind there?
+	Can you find it for me
+	and recover the data
+	that I left behind there?
 	"""
 	keyWait
 		any = false
@@ -1107,17 +1094,13 @@ script 27 mmbn4-lc {
 		item = 23
 		amount = 1
 	mugshotHide
-	"Lan gave:"
-	keyWait
-		any = false
-	clearMsg
+	"Lan gave:\n"
 	"\""
 	printItem
 		buffer = 0
 		item = 24
 	"""
-	" and
-	"
+	" and "
 	"""
 	printItem
 		buffer = 0

@@ -149,8 +149,8 @@ script 15 mmbn4-lc {
 	clearMsg
 	"""
 	But I do know they
-	don't like Elec-
-	Town,or high areas!
+	don't like ElecTown,
+	or high areas!
 	"""
 	keyWait
 		any = false
@@ -171,8 +171,8 @@ script 16 mmbn4-lc {
 	clearMsg
 	"""
 	But I do know they
-	don't like Elec-
-	Town,or high areas!
+	don't like ElecTown,
+	or high areas!
 	"""
 	keyWait
 		any = false
