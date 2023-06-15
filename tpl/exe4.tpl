@@ -215303,15 +215303,9 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = Man
 	"""
-	This place isn't
-	gonna protect us
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	from an asteroid
-	strike.
+	This place isn't gonna
+	protect us from
+	an asteroid strike.
 	"""
 	keyWait
 		any = false
@@ -215335,8 +215329,8 @@ script 3 mmbn4-lc {
 	clearMsg
 	"""
 	Had I known about
-	this,I'd have mar-
-	ried long ago.
+	this,I'd have married
+	long ago.
 	"""
 	keyWait
 		any = false
@@ -215495,8 +215489,8 @@ script 12 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	There must be some-
-	thing we can do.
+	There must be something
+	we can do.
 	"""
 	keyWait
 		any = false
@@ -215530,8 +215524,8 @@ script 15 mmbn4-lc {
 	msgOpen
 	"""
 	He's heading this
-	way with the aste-
-	roid,right?
+	way with the asteroid,
+	right?
 	"""
 	keyWait
 		any = false
@@ -216022,8 +216016,8 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Sharo's a cold coun-
-	try,but our
+	Sharo's a cold
+	country,but our
 	hearts are on fire!!
 	"""
 	keyWait
@@ -216503,8 +216497,8 @@ script 11 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	I will delay punish-
-	ing you for now.
+	I will delay punishing
+	you for now.
 	In the meantime,
 	"""
 	keyWait
@@ -216520,19 +216514,19 @@ script 11 mmbn4-lc {
 	"""
 	Next time I pass by
 	your planet,decades
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	or even centuries
-	from now,you will
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	from now,you will
 	again be judged.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	Then we'll see if
 	need to be punished.
 	"""
@@ -216780,12 +216774,12 @@ script 16 mmbn4-lc {
 	"""
 	Chaud's here. He's
 	an Official,so if ya
+	surrender and pay
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	surrender and pay
 	for your crimes…
 	"""
 	keyWait
@@ -216939,11 +216933,8 @@ script 23 mmbn4-lc {
 script 24 mmbn4-lc {
 	mugshotShow
 		mugshot = Regal
-	"Dr.Hikari,if you"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Dr.Hikari,if you
 	hadn't pursued your
 	NetNavi project,
 	"""
@@ -216984,8 +216975,8 @@ script 26 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	exiled a certain ro-
-	botics scientist and
+	exiled a certain
+	robotics scientist and
 	fell into evil ways.
 	"""
 	keyWait
@@ -217031,8 +217022,8 @@ script 26 mmbn4-lc {
 	clearMsg
 	"""
 	Humans commit crimes
-	without even realiz-
-	ing it.
+	without even realizing
+	it.
 	"""
 	keyWait
 		any = false
@@ -217224,8 +217215,7 @@ script 4 mmbn4-lc {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen…
+	Ladies and gentlemen…
 	"""
 	keyWait
 		any = false
@@ -217241,12 +217231,12 @@ script 4 mmbn4-lc {
 	"""
 	Let's deepen ties
 	between the world's
+	nations through
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nations through
 	NetBattles!
 	"""
 	keyWait
@@ -217317,28 +217307,22 @@ script 7 mmbn4-lc {
 	"""
 	All of us have the
 	power to fight evil,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	so we must build a
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	world in which
-	everyone has a
+	everyone has a place,
+	in preparation for
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	place,in preparation
-	for when Duo once
-	again comes to this
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	planet,centuries
+	when Duo once again comes
+	to this planet,centuries
 	from now.
 	"""
 	keyWait
@@ -272509,8 +272493,7 @@ script 0 mmbn4-lc {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen…
+	Ladies and gentlemen…
 	"""
 	keyWait
 		any = false
@@ -275564,8 +275547,7 @@ script 0 mmbn4-lc {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen…
+	Ladies and gentlemen…
 	"""
 	keyWait
 		any = false

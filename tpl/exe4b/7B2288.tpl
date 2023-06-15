@@ -231,12 +231,12 @@ script 16 mmbn4-lc {
 	"""
 	Chaud's here. He's
 	an Official,so if ya
+	surrender and pay
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	surrender and pay
 	for your crimes…
 	"""
 	keyWait
@@ -390,11 +390,8 @@ script 23 mmbn4-lc {
 script 24 mmbn4-lc {
 	mugshotShow
 		mugshot = Regal
-	"Dr.Hikari,if you"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Dr.Hikari,if you
 	hadn't pursued your
 	NetNavi project,
 	"""
@@ -435,8 +432,8 @@ script 26 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	exiled a certain ro-
-	botics scientist and
+	exiled a certain
+	robotics scientist and
 	fell into evil ways.
 	"""
 	keyWait
@@ -482,8 +479,8 @@ script 26 mmbn4-lc {
 	clearMsg
 	"""
 	Humans commit crimes
-	without even realiz-
-	ing it.
+	without even realizing
+	it.
 	"""
 	keyWait
 		any = false

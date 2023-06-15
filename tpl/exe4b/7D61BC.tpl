@@ -6,8 +6,7 @@ script 0 mmbn4-lc {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen…
+	Ladies and gentlemen…
 	"""
 	keyWait
 		any = false

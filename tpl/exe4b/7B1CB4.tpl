@@ -52,8 +52,8 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Sharo's a cold coun-
-	try,but our
+	Sharo's a cold
+	country,but our
 	hearts are on fire!!
 	"""
 	keyWait

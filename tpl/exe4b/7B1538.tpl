@@ -67,15 +67,9 @@ script 2 mmbn4-lc {
 	mugshotShow
 		mugshot = Man
 	"""
-	This place isn't
-	gonna protect us
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	from an asteroid
-	strike.
+	This place isn't gonna
+	protect us from
+	an asteroid strike.
 	"""
 	keyWait
 		any = false
@@ -99,8 +93,8 @@ script 3 mmbn4-lc {
 	clearMsg
 	"""
 	Had I known about
-	this,I'd have mar-
-	ried long ago.
+	this,I'd have married
+	long ago.
 	"""
 	keyWait
 		any = false

@@ -223,8 +223,8 @@ script 11 mmbn4-lc {
 		any = false
 	clearMsg
 	"""
-	I will delay punish-
-	ing you for now.
+	I will delay punishing
+	you for now.
 	In the meantime,
 	"""
 	keyWait
@@ -240,19 +240,19 @@ script 11 mmbn4-lc {
 	"""
 	Next time I pass by
 	your planet,decades
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	or even centuries
-	from now,you will
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	from now,you will
 	again be judged.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	Then we'll see if
 	need to be punished.
 	"""

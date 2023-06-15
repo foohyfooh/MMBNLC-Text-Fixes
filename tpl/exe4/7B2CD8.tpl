@@ -96,8 +96,7 @@ script 4 mmbn4-lc {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen…
+	Ladies and gentlemen…
 	"""
 	keyWait
 		any = false
@@ -113,12 +112,12 @@ script 4 mmbn4-lc {
 	"""
 	Let's deepen ties
 	between the world's
+	nations through
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nations through
 	NetBattles!
 	"""
 	keyWait
@@ -189,28 +188,22 @@ script 7 mmbn4-lc {
 	"""
 	All of us have the
 	power to fight evil,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	so we must build a
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	world in which
-	everyone has a
+	everyone has a place,
+	in preparation for
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	place,in preparation
-	for when Duo once
-	again comes to this
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	planet,centuries
+	when Duo once again comes
+	to this planet,centuries
 	from now.
 	"""
 	keyWait
